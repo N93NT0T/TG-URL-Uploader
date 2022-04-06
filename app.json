@@ -57,6 +57,15 @@
       "description": "chunk size that should be used with requests",
       "value": "1024"
     },
+    "DOWNLOAD_LOCATION": {
+      "description": "p.",
+      "value": "downloads"
+    },
+    "DEF_THUMB_NAIL_VID_S": {
+      "description": "proxy for accessing youtube-dl in GeoRestricted Areas. Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061",
+      "value": "",
+      "required": false
+    }, 
     "HTTP_PROXY": {
       "description": "proxy for accessing youtube-dl in GeoRestricted Areas. Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061",
       "value": "",
